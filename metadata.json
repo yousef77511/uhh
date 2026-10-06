@@ -1,0 +1,6 @@
+{
+  "name": "MedBridge - Surplus Medical Supplies Platform",
+  "description": "Protons Team community platform connecting medical donors with healthcare facilities in need to reduce medical waste and save lives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
